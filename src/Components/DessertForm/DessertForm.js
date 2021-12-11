@@ -34,11 +34,11 @@ const DessertForm = ({desserts}) => {
     <div className="dessert-form">
       <Form name="control-hooks" form={form} labelCol={{ span: 8 }} wrapperCol={{ span: 8 }} onFinish={addDessertInfo} onFinishFailed={failedToAddDessertInfo}>
         <Form.Item label="Name" name="name" rules={[{ required: true, message: "Please enter a dessert name" }]}>
-          <Input className="input" onChange={event => setDessertName(event.target.value)}/>
+          <Input className="dessert-input" onChange={event => setDessertName(event.target.value)}/>
         </Form.Item>
 
         <Form.Item label="Count" name="count" rules={[{ required: true, message: "Please enter a dessert amount" },]}>
-          <InputNumber className="input" onChange={event => setAmount(event)} min={0}/>
+          <InputNumber className="dessert-input" onChange={event => setAmount(event)} min={0}/>
         </Form.Item>
 
         <Form.Item wrapperCol={{ offset: 8, span: 16 }}>
