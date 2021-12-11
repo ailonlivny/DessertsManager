@@ -2,7 +2,7 @@
 
 ## Run the app as follows:
 
-Download/clone DessertsManager project:
+Download/Clone DessertsManager project:
 
 1.       Open the project from the Terminal/CMD
 
