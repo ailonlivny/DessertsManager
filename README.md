@@ -16,16 +16,16 @@ Download/clone DessertsManager project:
 
 Empty list (Desktop resolution):
 
-![image](https://user-images.githubusercontent.com/44675396/145688659-a768de95-e6d0-4c70-a9a1-a89baa596fd3.png)
+![image](https://user-images.githubusercontent.com/44675396/145689673-47cb31d2-9a39-42bb-a366-cb84337e7933.png)
 
 
 List of dessetrs (Desktop resolution):
 
-![image](https://user-images.githubusercontent.com/44675396/145688675-454333e9-dbb9-4d1b-b84e-868b43d38d63.png)
+![image](https://user-images.githubusercontent.com/44675396/145689676-dd79a7a0-a5bf-4fb9-bd67-1c9fd8369564.png)
 
 List of dessetrs (mobile resolution):
 
-![image](https://user-images.githubusercontent.com/44675396/145688709-f484e09f-7f8b-49f7-8808-5b2c759cfd76.png)
-![image](https://user-images.githubusercontent.com/44675396/145688712-9099578d-b5eb-4776-b962-38ab53a5b7e0.png)
+![image](https://user-images.githubusercontent.com/44675396/145689686-9b54d40d-d55b-4fcb-97ae-d3252b43bcd0.png)
+![image](https://user-images.githubusercontent.com/44675396/145689687-fe5f0802-8022-41d1-acf5-0cfd4db314d6.png)
 
 
