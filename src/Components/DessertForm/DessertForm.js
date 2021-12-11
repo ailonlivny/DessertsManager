@@ -37,7 +37,7 @@ const DessertForm = ({desserts}) => {
           <Input className="dessert-input" onChange={event => setDessertName(event.target.value)}/>
         </Form.Item>
 
-        <Form.Item label="Count" name="count" rules={[{ required: true, message: "Please enter a dessert amount" },]}>
+        <Form.Item label="Amount" name="amount" rules={[{ required: true, message: "Please enter a dessert amount" },]}>
           <InputNumber className="dessert-input" onChange={event => setAmount(event)} min={0}/>
         </Form.Item>
 
