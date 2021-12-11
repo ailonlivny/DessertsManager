@@ -41,7 +41,7 @@ const DessertForm = ({desserts}) => {
           <InputNumber className="input" onChange={event => setAmount(event)} min={0}/>
         </Form.Item>
 
-        <Form.Item wrapperCol={{ offset: 8, span: 11 }}>
+        <Form.Item wrapperCol={{ offset: 8, span: 16 }}>
           <Button type="primary" htmlType="submit">Add Dessert</Button>
         </Form.Item>
       </Form>
